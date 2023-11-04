@@ -10,7 +10,7 @@ Olá! Eu sou Larissa, estudante de Ciência da Computação na Universidade Esta
 
 ## Minhas Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&hide=prs&count_private=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=larikelly&show_icons=true&hide=prs&count_private=true&theme=radical)
 
 ## Contato
 
