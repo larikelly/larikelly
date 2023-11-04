@@ -1,16 +1,20 @@
-### Hi there 👋
+# Bem-vindo ao Meu Perfil do GitHub!
 
-<!--
-**larikelly/larikelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Eu sou Larissa, estudante de Ciência da Computação na Universidade Estadual do Ceará (UECE).
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente estou aprendendo C e linguagens front-end: HTML, CSS e JS.
+- 👯 Estou trabalhando em um projeto da AcensJr em HTML e CSS.
+- 💬 Gosto de conversar sobre tecnologia, design, programação e projetos interessantes.
+
+## Minhas Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&hide=prs&count_private=true&theme=radical)
+
+## Contato
+
+- [LinkedIn]((https://www.linkedin.com/in/larissa-kelly-44246810a/))
+- [Instagram]((https://www.instagram.com/larikelly))
+
+Fique à vontade para explorar meus repositórios e entrar em contato comigo se houver algo com o qual eu possa ajudar ou se você gostaria de colaborar em um projeto interessante!
