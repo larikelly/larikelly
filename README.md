@@ -4,8 +4,8 @@ Olá! Eu sou Larissa, estudante de Ciência da Computação na Universidade Esta
 
 ## Sobre Mim
 
-- 🌱 Atualmente estou aprendendo C e linguagens front-end: HTML, CSS e JS.
-- 👯 Estou trabalhando em um projeto da AcensJr em HTML e CSS.
+- 🌱 Atualmente estou aprendendo C, Java, JS, Phyton além de HTML, CSS e React.
+- 👯 Estou trabalhando em um projeto da AcensJr em React.
 - 💬 Gosto de conversar sobre tecnologia, design, programação e projetos interessantes.
 
 ## Minhas Estatísticas do GitHub
