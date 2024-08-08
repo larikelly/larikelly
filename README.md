@@ -4,9 +4,9 @@ Olá! Eu sou Larissa, estudante de Ciência da Computação na Universidade Esta
 
 ## Sobre Mim
 
-- 🌱 Atualmente estou aprendendo C, Java, JS, Phyton além de HTML, CSS e React.
-- 👯 Estou trabalhando em um projeto da AcensJr em React.
-- 💬 Gosto de conversar sobre tecnologia, design, programação e projetos interessantes.
+- 🌱 Atualmente estou aprendendo C, Java, JavaScript, Python, além de HTML e CSS.
+- 👯 Estou trabalhando em um projeto do GESAD.
+- 💬 Gosto de conversar sobre pets, design, programação e assuntos interessantes.
 
 ## Minhas Estatísticas do GitHub
 
@@ -14,7 +14,7 @@ Olá! Eu sou Larissa, estudante de Ciência da Computação na Universidade Esta
 
 ## Contato
 
-- [LinkedIn]((https://www.linkedin.com/in/larissa-kelly-44246810a/))
-- [Instagram]((https://www.instagram.com/larikelly))
+- [LinkedIn](https://www.linkedin.com/in/larissa-kelly-44246810a/)
+- [Instagram](https://www.instagram.com/larikelly)
 
 Fique à vontade para explorar meus repositórios e entrar em contato comigo se houver algo com o qual eu possa ajudar ou se você gostaria de colaborar em um projeto interessante!
