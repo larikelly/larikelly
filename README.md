@@ -1,7 +1,6 @@
 # Hellow! 👋☺️
 
 My name is Larissa Kelly and I'm from Brazil 🇧🇷. Currently, I am a student of Computer science at the Universidade Estadual do Ceará (UECE). 
-My commitment to applying my talents and skills to generate innovative solutions drives my journey forward. I am eager to learn, grow, and collaborate with the tech and innovation community every day. 👩‍💻🤝
 
 ## About Me
 
