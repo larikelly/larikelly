@@ -1,4 +1,4 @@
-# Bem-vindo ao Meu Perfil do GitHub!
+# Hi here!
 
 Olá! Eu sou Larissa, estudante de Ciência da Computação na Universidade Estadual do Ceará (UECE).
 
@@ -12,8 +12,7 @@ Olá! Eu sou Larissa, estudante de Ciência da Computação na Universidade Esta
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=larikelly&show_icons=true&hide=prs&count_private=true&theme=radical)
 
-## Contato
-
+## Would you like to find me?
 - [LinkedIn](https://www.linkedin.com/in/larissa-kelly-44246810a/)
 - [Instagram](https://www.instagram.com/larikelly)
 
