@@ -1,14 +1,14 @@
-# Hi here!
+# Hellow!
 
-Olá! Eu sou Larissa, estudante de Ciência da Computação na Universidade Estadual do Ceará (UECE).
+My name is Larissa Kelly and I'm from Brazil 🇧🇷. Currently, I am a student of Computer science at the Universidade Estadual do Ceará (UECE).
 
-## Sobre Mim
+## About Me
 
-- 🌱 Atualmente estou aprendendo C, Java, JavaScript, Python, além de HTML e CSS.
-- 👯 Estou trabalhando em um projeto do GESAD.
-- 💬 Gosto de conversar sobre pets, design, programação e assuntos interessantes.
+🌱 I'm currently learning C, Java, JavaScript, Python, as well as HTML and CSS.
+👯 I'm working on a project with GESAD.
+💬 I really enjoy talking about pets, design, programming, and other interesting topics.
 
-## Minhas Estatísticas do GitHub
+## My GitHub Stats
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=larikelly&show_icons=true&hide=prs&count_private=true&theme=radical)
 
@@ -16,4 +16,4 @@ Olá! Eu sou Larissa, estudante de Ciência da Computação na Universidade Esta
 - [LinkedIn](https://www.linkedin.com/in/larissa-kelly-44246810a/)
 - [Instagram](https://www.instagram.com/larikelly)
 
-Fique à vontade para explorar meus repositórios e entrar em contato comigo se houver algo com o qual eu possa ajudar ou se você gostaria de colaborar em um projeto interessante!
+Feel free to explore my repositories and contact me if there's anything I can help with or if you'd like to collaborate on an interesting project!
