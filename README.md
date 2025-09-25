@@ -4,8 +4,8 @@ My name is Larissa Kelly and I'm from Brazil 🇧🇷. Currently, I am a student
 
 ## About Me
 
-- 🌱 I'm currently learning C, Java, JavaScript, Python, as well as HTML and CSS.
-- 👯 I'm working on a project with GESAD.
+- 🌱 I'm currently learning JavaScript, Python, as well as HTML and CSS.
+- 👯 I'm working on a project with GESAD/Fábrica de Testadores.
 - 💬 I really enjoy talking about pets, design, programming, and other interesting topics.
 
 ## My GitHub Stats
