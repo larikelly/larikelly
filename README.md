@@ -17,4 +17,5 @@ Currently, I contribute to research and development projects in partnership with
 - Figma and Interface Design
 - Product Discovery and User Experience
 
-*"Technology becomes more valuable when it solves real problems and improves people's lives."*
+*"It's only fair that something which is worth a lot should cost a lot."*
+*"É justo que muito custe o que muito vale."*
