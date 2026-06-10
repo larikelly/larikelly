@@ -1,4 +1,4 @@
-# Hellow!
+# Hellow!👋☺️
 
 I'm **Larissa Kelly**, a Computer Science student at **UECE** 🇧🇷 and a technology enthusiast focused on **Software Quality**, **Requirements Engineering** and **User Experience**.
 
