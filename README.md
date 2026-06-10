@@ -1,19 +1,24 @@
-# Hellow! 👋☺️
+# Hellow!
 
-My name is Larissa Kelly and I'm from Brazil 🇧🇷. Currently, I am a student of Computer science at the Universidade Estadual do Ceará (UECE). 
+I'm **Larissa Kelly**, a Computer Science student at **UECE** 🇧🇷 and a technology enthusiast focused on **Software Quality**, **Requirements Engineering** and **User Experience**.
 
-## About Me
+Currently, I contribute to research and development projects in partnership with **GESAD/LDI**, working on solutions that combine innovation, usability, and software quality.
 
-- 🌱 I'm currently learning JavaScript, Python, as well as HTML and CSS.
-- 👯 I'm working on a project with GESAD/Fábrica de Testadores.
-- 💬 I really enjoy talking about pets, design, programming, and other interesting topics.
+## Areas of Interest
 
-## My GitHub Stats
+- Software Testing & Quality Assurance (QA)
+- Requirements Engineering
+- UI/UX Design
+- Web Systems Development
+- Agile Software Development
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=larikelly&show_icons=true&hide=prs&count_private=true&theme=radical)
+## Currently Learning
 
-## Would you like to find me?
-- [LinkedIn](https://www.linkedin.com/in/larissa-kelly-44246810a/)
-- [Instagram](https://www.instagram.com/larikelly)
+- Figma and Interface Design
+- Product Discovery and User Experience
 
-Feel free to explore my repositories and contact me if there's anything I can help with or if you'd like to collaborate on an interesting project!
+## Connect with Me
+
+- LinkedIn: [Larissa Kelly](https://www.linkedin.com/in/larissa-kelly-44246810a/)
+
+*"Technology becomes more valuable when it solves real problems and improves people's lives."*
